@@ -12,11 +12,4 @@
 - **応用情報技術者取得**
 
 ---
-
-## 🛠 スキル  
-
-**Languages:**  
-Java | Python | HTML | CSS | JavaScript  
-
-**Tools:**  
-GitHub | VS Code | Copilot  
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,vscode,git,eclipse,docker,bash)](https://skillicons.dev)
