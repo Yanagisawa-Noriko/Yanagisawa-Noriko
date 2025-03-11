@@ -1,15 +1,8 @@
-## 👋 Hello! I'm learning to become a software engineer.
-
-### 🌱 Learning 
-- **Java / Python**
-- **MySQL / PostgreSQL** (データベースの基本操作を学習中)
-- **Salesforce** (勉強中！)
-
-### 📌 Interest  
-- **AI・データ分析・哲学・ホログラフィック宇宙論**
-
-### 🎯 目標  
-- **応用情報技術者取得**
+## I'm leveling up my skills to be able to support my 2 pet cats and 8 rescue cats!
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,vscode,git,eclipse,docker,bash)](https://skillicons.dev)
+<!-- ## Programming Languages -->
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css)](https://skillicons.dev)
+
+<!-- ## DB and Dev Tools etc -->
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,eclipse,docker,bash,postgres)](https://skillicons.dev)
