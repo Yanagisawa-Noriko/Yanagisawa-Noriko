@@ -10,7 +10,7 @@
 
 ### 📊 GitHub Stats 📈
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanagisawa-noriko&bg_color=000957&text_color=c9d1d9" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanagisawa-noriko&theme=vue-dark&bg_color=000957&text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
