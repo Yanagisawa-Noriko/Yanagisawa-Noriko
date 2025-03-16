@@ -1,5 +1,7 @@
 ## :feet: I'm leveling up my skills to be able to support my 2 pet cats and 8 rescue cats! :feet: 
 
+![猫のアニメーション](https://Yanagisawa-Noriko.github.io/cat-animation-svg/cat-animation.svg)
+
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,vscode,git,eclipse,docker,bash,postgres)](https://skillicons.dev)
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
