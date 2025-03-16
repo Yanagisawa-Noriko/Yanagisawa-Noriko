@@ -9,10 +9,11 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,eclipse,docker,bash,postgres)](https://skillicons.dev)
 
 ### 📊 GitHub Stats 📈
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanagisawa-noriko&theme=vue-dark&bg_color=000957&text_color=c9d1d9" />
+---
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanagisawa-noriko&layout=compact&title_color=FFAB5B&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Yanagisawa-Noriko's Language stats" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yanagisawa-noriko&bg_color=000957&text_color=c9d1d9&icon_color=ff69b4&count_private=true&show_icons=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yanagisawa-noriko&line_height=28&hide_border=true&count_private=true&title_color=00879E&icon_color=FFAB5B&show_icons=true" />
 </a>
