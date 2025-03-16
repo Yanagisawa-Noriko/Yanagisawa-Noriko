@@ -7,5 +7,5 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yanagisawa-noriko&line_height=28&hide_border=true&count_private=true&title_color=00879E&icon_color=FFAB5B&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yanagisawa-noriko&line_height=28&hide_border=true&count_private=true&title_color=FFAB5B&icon_color=034C53&show_icons=true" />
 </a>
