@@ -2,7 +2,7 @@
 
 ![猫のアニメーション](https://Yanagisawa-Noriko.github.io/cat-animation-svg/cat-animation.svg)
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,vscode,git,eclipse,docker,bash,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,vscode,git,eclipse,docker,bash,postgres,obsidian)](https://skillicons.dev)
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanagisawa-noriko&layout=compact&title_color=F38C79&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Yanagisawa-Noriko's Language stats" />
