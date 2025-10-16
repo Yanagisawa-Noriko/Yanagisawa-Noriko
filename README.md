@@ -1,4 +1,4 @@
-## :feet: I'm leveling up my skills to be able to support my 2 pet cats and 8 rescue cats! :feet: 
+## :feet: Just a dreamer, proudly owned by a cat. :feet: 
 
 ![猫のアニメーション](https://Yanagisawa-Noriko.github.io/cat-animation-svg/cat-animation.svg)
 
